@@ -11,6 +11,6 @@ def second_challenge
   #code your solution here!
 binding.pry
 array = groceries.values
-arry.flatten
+array.flatten
 
 end
