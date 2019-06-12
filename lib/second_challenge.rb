@@ -13,7 +13,4 @@ binding.pry
 array = groceries.values
 arry.flatten
 
-
-
-
 end
