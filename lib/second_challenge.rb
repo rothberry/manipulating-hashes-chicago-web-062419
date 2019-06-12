@@ -1,4 +1,4 @@
-require 'pry'
+# require 'pry'
 
 def second_challenge
   groceries = {
@@ -12,7 +12,7 @@ def second_challenge
 array = groceries.values
 arry.flatten
 
-binding.pry
+# binding.pry
 
 
 end
